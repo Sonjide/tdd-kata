@@ -6,12 +6,12 @@ Create a function (or library), suitable for use in a server-side application, t
 
 ## Sample Data 
 
-| Input       | Output      |
-| ----------- | ----------- |
-| 0           | zero        |
-| 1   | one        |
-| 21   | twenty-one        |
-| 123 | one hundred and twenty-three           |
+| Input | Output |
+| ----- | ------ |
+| 0 | zero |
+| 1 | one |
+| 21 | twenty-one |
+| 123 | one hundred and twenty-three |
 | 1005 | one thousand and five |
 | 1042 | one thousand and forty-two |
 | 1105 | one thousand one hundred and five |
