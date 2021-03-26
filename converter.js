@@ -1,5 +1,9 @@
 function numberToString(number) {
-  return "one";
+	if (number === 1) {
+		return "one";
+	} else if (number === 0) {
+		return "zero";
+	}
 }
 
-module.exports = {numberToString};
+module.exports = { numberToString };
